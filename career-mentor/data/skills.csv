@@ -1,0 +1,43 @@
+skill_id,skill_name,difficulty,est_hours,aliases
+S01,Python,1,30,py|python3|python programming|python language
+S02,Git and GitHub,1,8,git|github|version control
+S03,SQL,1,20,sql|mysql|postgresql|database queries
+S04,HTML,1,15,html5|html|web pages markup
+S05,CSS,1,20,css3|css|styling|stylesheets
+S06,JavaScript,2,40,js|javascript|es6|java script
+S07,Responsive Design,2,10,responsive|mobile friendly design|media queries
+S08,Tailwind CSS,2,12,tailwind|tailwindcss
+S09,React,3,40,reactjs|react.js|react js
+S10,Node.js,2,25,nodejs|node|node js
+S11,REST APIs,2,15,rest|api|apis|restful api|web services
+S12,Express.js,2,20,express|expressjs|express js
+S13,MongoDB,2,15,mongo|mongodb|nosql
+S14,Authentication,3,15,auth|login system|jwt|user authentication
+S15,Web Deployment,2,10,deployment|hosting|deploy website|netlify|vercel
+S16,Command Line and Linux,1,10,terminal|cli|bash|linux|command line
+S17,Statistics Basics,2,30,stats|statistics|descriptive statistics
+S18,Linear Algebra Basics,2,20,linear algebra|matrices|vectors
+S19,NumPy,1,12,numpy|np|numerical python
+S20,Pandas,2,20,pandas|pd|dataframes
+S21,Data Visualization,2,15,matplotlib|seaborn|plotting|charts|data viz
+S22,Data Cleaning,2,12,data cleaning|data preprocessing|missing values
+S23,Exploratory Data Analysis,2,15,eda|data exploration|data analysis
+S24,Machine Learning Basics,3,40,ml|machine learning|sklearn|scikit-learn
+S25,Feature Engineering,3,15,feature selection|feature extraction
+S26,Model Evaluation,3,12,model validation|metrics|cross validation
+S27,Deep Learning Basics,3,40,dl|deep learning|neural networks|tensorflow|pytorch
+S28,Probability Basics,2,20,probability|probability theory
+S29,Object-Oriented Programming,2,20,oop|oops|object oriented|classes and objects
+S30,Data Structures,2,50,dsa|ds|data structures|arrays linked lists trees
+S31,Algorithms,3,50,algos|algorithms|sorting searching|graph algorithms
+S32,Time and Space Complexity,2,10,big o|complexity analysis|time complexity
+S33,Recursion and Dynamic Programming,3,30,dp|dynamic programming|recursion
+S34,Operating Systems Basics,3,30,os|operating systems|process scheduling
+S35,Computer Networks Basics,2,25,cn|computer networks|networking|tcp ip
+S36,DBMS Concepts,2,20,dbms|database management|normalization
+S37,System Design Basics,3,30,system design|hld|scalability
+S38,FastAPI,2,20,fastapi|fast api|python backend
+S39,Software Testing,2,12,testing|unit testing|pytest
+S40,Docker Basics,2,12,docker|containers|containerization
+S41,Problem Solving Practice,2,60,leetcode|coding practice|competitive programming|problem solving
+S42,SDLC and Agile Basics,1,6,sdlc|agile|scrum|software development life cycle

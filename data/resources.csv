@@ -1,0 +1,110 @@
+﻿resource_id,skill_id,title,type,url,level,duration_min,is_free
+R001,S01,Python for Everybody - Coursera,course,https://www.coursera.org/specializations/python,beginner,1200,yes
+R002,S01,Automate the Boring Stuff with Python,book,https://automatetheboringstuff.com,beginner,600,yes
+R003,S01,Python Crash Course - YouTube freeCodeCamp,video,https://www.youtube.com/watch?v=rfscVS0vtbw,beginner,240,yes
+R004,S01,100 Days of Code Python Bootcamp - Udemy,course,https://www.udemy.com/course/100-days-of-code,intermediate,6000,no
+R005,S01,Python Official Documentation,docs,https://docs.python.org/3/tutorial,beginner,300,yes
+R006,S02,Statistics with Python - Coursera,course,https://www.coursera.org/specializations/statistics-with-python,beginner,900,yes
+R007,S02,Khan Academy Statistics,course,https://www.khanacademy.org/math/statistics-probability,beginner,600,yes
+R008,S02,Think Stats - Free Book,book,https://greenteapress.com/wp/think-stats-2e,intermediate,400,yes
+R009,S03,3Blue1Brown Linear Algebra Playlist,video,https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab,beginner,480,yes
+R010,S03,MIT 18.06 Linear Algebra - Gilbert Strang,course,https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010,intermediate,2400,yes
+R011,S04,Data Cleaning in Python - Kaggle,course,https://www.kaggle.com/learn/data-cleaning,beginner,120,yes
+R012,S04,Tidy Data with Pandas - Real Python,article,https://realpython.com/python-data-cleaning-numpy-pandas,intermediate,60,yes
+R013,S05,Pandas Tutorial - Official Docs,docs,https://pandas.pydata.org/docs/getting_started/intro_tutorials,beginner,200,yes
+R014,S05,Pandas for Data Analysis - Kaggle,course,https://www.kaggle.com/learn/pandas,beginner,120,yes
+R015,S05,Python Pandas Tutorial - Corey Schafer YouTube,video,https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS,beginner,180,yes
+R016,S06,NumPy Quickstart Tutorial,docs,https://numpy.org/doc/stable/user/quickstart.html,beginner,60,yes
+R017,S06,NumPy for Machine Learning - freeCodeCamp,video,https://www.youtube.com/watch?v=QUT1VHiLmmI,beginner,60,yes
+R018,S07,Data Visualization with Python - IBM Coursera,course,https://www.coursera.org/learn/python-for-data-visualization,beginner,600,yes
+R019,S07,Fundamentals of Data Visualization - Book,book,https://clauswilke.com/dataviz,intermediate,400,yes
+R020,S08,Matplotlib Official Tutorial,docs,https://matplotlib.org/stable/tutorials/index.html,beginner,120,yes
+R021,S08,Matplotlib Tutorial - Sentdex YouTube,video,https://www.youtube.com/playlist?list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF,beginner,150,yes
+R022,S09,Seaborn Official Tutorial,docs,https://seaborn.pydata.org/tutorial.html,beginner,90,yes
+R023,S10,Machine Learning - Andrew Ng Coursera,course,https://www.coursera.org/learn/machine-learning,intermediate,3600,yes
+R024,S10,Hands-On Machine Learning - Book Aurélien Géron,book,https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632,intermediate,800,no
+R025,S10,ML Crash Course - Google,course,https://developers.google.com/machine-learning/crash-course,intermediate,900,yes
+R026,S10,Fast.ai Practical ML,course,https://course.fast.ai,intermediate,1200,yes
+R027,S11,Scikit-Learn Official Documentation,docs,https://scikit-learn.org/stable/getting_started.html,intermediate,200,yes
+R028,S11,ML with Scikit-Learn - Kaggle Learn,course,https://www.kaggle.com/learn/intro-to-machine-learning,beginner,180,yes
+R029,S12,SQL for Data Science - Coursera,course,https://www.coursera.org/learn/sql-for-data-science,beginner,600,yes
+R030,S12,SQLZoo Interactive Tutorial,course,https://sqlzoo.net,beginner,300,yes
+R031,S12,Mode SQL Tutorial,course,https://mode.com/sql-tutorial,beginner,200,yes
+R032,S13,Feature Engineering - Kaggle,course,https://www.kaggle.com/learn/feature-engineering,intermediate,120,yes
+R033,S13,Feature Engineering for ML - Udemy,course,https://www.udemy.com/course/feature-engineering-for-machine-learning,intermediate,420,no
+R034,S14,Model Evaluation & Validation - Udacity,course,https://www.udacity.com/course/model-building-and-validation--ud919,intermediate,300,yes
+R035,S14,Metrics to Evaluate ML Models - Towards Data Science,article,https://towardsdatascience.com/metrics-to-evaluate-your-machine-learning-algorithm-f10ba6e38234,intermediate,30,yes
+R036,S15,Deep Learning Specialization - Andrew Ng,course,https://www.coursera.org/specializations/deep-learning,advanced,7200,yes
+R037,S15,Deep Learning Book - Goodfellow,book,https://www.deeplearningbook.org,advanced,1200,yes
+R038,S15,Practical Deep Learning - fast.ai,course,https://course.fast.ai,intermediate,1500,yes
+R039,S16,TensorFlow Official Tutorials,docs,https://www.tensorflow.org/tutorials,intermediate,400,yes
+R040,S16,TensorFlow in Practice - Coursera,course,https://www.coursera.org/specializations/tensorflow-in-practice,intermediate,2400,yes
+R041,S17,PyTorch Official Tutorials,docs,https://pytorch.org/tutorials,intermediate,400,yes
+R042,S17,Deep Learning with PyTorch - freeCodeCamp,video,https://www.youtube.com/watch?v=GIsg-ZUy0MY,intermediate,600,yes
+R043,S18,NLP with Python - NLTK Book,book,https://www.nltk.org/book,intermediate,600,yes
+R044,S18,Hugging Face NLP Course,course,https://huggingface.co/learn/nlp-course,advanced,600,yes
+R045,S18,Stanford CS224N NLP with Deep Learning,course,https://web.stanford.edu/class/cs224n,advanced,2400,yes
+R046,S19,CS231n Stanford Computer Vision,course,https://cs231n.stanford.edu,advanced,2400,yes
+R047,S19,Computer Vision Basics - Coursera,course,https://www.coursera.org/learn/computer-vision-basics,intermediate,600,yes
+R048,S20,Big Data Essentials - Coursera,course,https://www.coursera.org/learn/big-data-essentials,intermediate,900,yes
+R049,S20,Apache Spark Tutorial - YouTube,video,https://www.youtube.com/watch?v=_C8kWso4ne4,intermediate,240,yes
+R050,S21,HTML Full Course - freeCodeCamp YouTube,video,https://www.youtube.com/watch?v=pQN-pnXPaVg,beginner,120,yes
+R051,S21,HTML Tutorial - W3Schools,docs,https://www.w3schools.com/html,beginner,180,yes
+R052,S21,Responsive Web Design - freeCodeCamp,course,https://www.freecodecamp.org/learn/2022/responsive-web-design,beginner,300,yes
+R053,S22,CSS Full Course - freeCodeCamp YouTube,video,https://www.youtube.com/watch?v=1Rs2ND1ryYc,beginner,120,yes
+R054,S22,CSS Tutorial - Kevin Powell YouTube,video,https://www.youtube.com/kepowob,beginner,240,yes
+R055,S22,CSS Tricks Complete Guide,docs,https://css-tricks.com/guides,intermediate,200,yes
+R056,S23,JavaScript Full Course - freeCodeCamp,video,https://www.youtube.com/watch?v=jS4aFq5-91M,beginner,444,yes
+R057,S23,The Modern JavaScript Tutorial,docs,https://javascript.info,beginner,600,yes
+R058,S23,Eloquent JavaScript - Free Book,book,https://eloquentjavascript.net,intermediate,500,yes
+R059,S23,JavaScript30 - 30 Projects in 30 Days,course,https://javascript30.com,intermediate,300,yes
+R060,S24,Responsive Web Design - Brad Traversy,video,https://www.youtube.com/watch?v=srvUrASNj0s,beginner,60,yes
+R061,S24,CSS Flexbox Tutorial - freeCodeCamp,video,https://www.youtube.com/watch?v=fYq5PXgSsbE,beginner,60,yes
+R062,S25,React Official Tutorial,docs,https://react.dev/learn,intermediate,300,yes
+R063,S25,React Full Course - freeCodeCamp YouTube,video,https://www.youtube.com/watch?v=bMknfKXIFA8,intermediate,480,yes
+R064,S25,The Complete React Developer - Udemy,course,https://www.udemy.com/course/complete-react-developer-zero-to-mastery,intermediate,2400,no
+R065,S25,React - Scrimba Free Course,course,https://scrimba.com/learn/learnreact,intermediate,300,yes
+R066,S26,Git & GitHub for Beginners - freeCodeCamp,video,https://www.youtube.com/watch?v=RGOj5yH7evk,beginner,60,yes
+R067,S26,Pro Git Book - Free,book,https://git-scm.com/book/en/v2,intermediate,400,yes
+R068,S26,GitHub Skills,course,https://skills.github.com,beginner,120,yes
+R069,S27,The Linux Command Line - Free Book,book,https://linuxcommand.org/tlcl.php,beginner,400,yes
+R070,S27,Command Line Crash Course,course,https://learnpythonthehardway.org/book/appendixa.html,beginner,120,yes
+R071,S29,Node.js Tutorial - Traversy Media,video,https://www.youtube.com/watch?v=fBNz5xF-Kx4,intermediate,90,yes
+R072,S29,The Complete Node.js Developer Course - Udemy,course,https://www.udemy.com/course/the-complete-nodejs-developer-course-2,intermediate,1800,no
+R073,S29,Node.js Official Docs,docs,https://nodejs.org/en/docs,intermediate,200,yes
+R074,S30,Express.js Official Docs,docs,https://expressjs.com,intermediate,120,yes
+R075,S30,Express.js Crash Course - Traversy Media,video,https://www.youtube.com/watch?v=L72fhGm1tfE,intermediate,60,yes
+R076,S31,REST API Design - Best Practices,article,https://restfulapi.net,intermediate,60,yes
+R077,S31,Build a REST API with Node & Express,video,https://www.youtube.com/watch?v=l8WPWK9mS5M,intermediate,30,yes
+R078,S32,MongoDB University Free Courses,course,https://university.mongodb.com,intermediate,600,yes
+R079,S32,MongoDB Crash Course - Traversy Media,video,https://www.youtube.com/watch?v=-56x56UppqQ,intermediate,45,yes
+R080,S33,PostgreSQL Tutorial - Official,docs,https://www.postgresql.org/docs/current/tutorial.html,beginner,200,yes
+R081,S33,PostgreSQL Full Course - freeCodeCamp,video,https://www.youtube.com/watch?v=qw--VYLpxG4,intermediate,240,yes
+R082,S34,JWT Authentication Tutorial - Traversy Media,video,https://www.youtube.com/watch?v=mbsmsi7l3r4,intermediate,60,yes
+R083,S34,OWASP Web Security Basics,docs,https://owasp.org/www-project-top-ten,intermediate,120,yes
+R084,S35,Vercel Deployment Docs,docs,https://vercel.com/docs,beginner,60,yes
+R085,S35,Deploy Node.js to Heroku - Tutorial,article,https://devcenter.heroku.com/articles/deploying-nodejs,intermediate,60,yes
+R086,S36,TypeScript Official Handbook,docs,https://www.typescriptlang.org/docs/handbook,intermediate,300,yes
+R087,S36,TypeScript Full Course - freeCodeCamp,video,https://www.youtube.com/watch?v=30LWjhZzg50,intermediate,120,yes
+R088,S37,Next.js Official Tutorial,docs,https://nextjs.org/learn,intermediate,300,yes
+R089,S37,Next.js Crash Course - Traversy Media,video,https://www.youtube.com/watch?v=mTz0GXj8NN0,intermediate,60,yes
+R090,S38,Tailwind CSS Official Docs,docs,https://tailwindcss.com/docs,beginner,120,yes
+R091,S38,Tailwind CSS Crash Course - Traversy Media,video,https://www.youtube.com/watch?v=dFgzHOX84xQ,beginner,45,yes
+R092,S39,Docker Official Get Started Guide,docs,https://docs.docker.com/get-started,intermediate,180,yes
+R093,S39,Docker for Beginners - TechWorld with Nana,video,https://www.youtube.com/watch?v=3c-iBn73dDE,intermediate,180,yes
+R094,S40,System Design Primer - GitHub,docs,https://github.com/donnemartin/system-design-primer,advanced,600,yes
+R095,S40,Grokking System Design - Educative,course,https://www.educative.io/courses/grokking-the-system-design-interview,advanced,1200,no
+R096,S41,Data Structures in Python - freeCodeCamp,video,https://www.youtube.com/watch?v=pkYVOmU3MgA,intermediate,240,yes
+R097,S41,Visualgo - Algorithm Visualizer,tool,https://visualgo.net,beginner,120,yes
+R098,S42,Algorithms - Khan Academy,course,https://www.khanacademy.org/computing/computer-science/algorithms,intermediate,300,yes
+R099,S42,LeetCode Practice Problems,tool,https://leetcode.com,intermediate,600,yes
+R100,S43,GraphQL Official Learn,docs,https://graphql.org/learn,intermediate,120,yes
+R101,S43,Full Stack GraphQL - Apollo Tutorial,course,https://www.apollographql.com/tutorials,intermediate,300,yes
+R102,S44,Redux Official Tutorial,docs,https://redux.js.org/tutorials/essentials/part-1-overview-concepts,intermediate,180,yes
+R103,S44,Redux Toolkit Quick Start,docs,https://redux-toolkit.js.org/introduction/getting-started,intermediate,60,yes
+R104,S45,Testing JavaScript - Kent C Dodds,course,https://testingjavascript.com,intermediate,600,no
+R105,S45,Jest Official Docs,docs,https://jestjs.io/docs/getting-started,intermediate,120,yes
+R106,S49,Exploratory Data Analysis - Kaggle,course,https://www.kaggle.com/learn/data-visualization,beginner,120,yes
+R107,S49,EDA with Python - Towards Data Science,article,https://towardsdatascience.com/exploratory-data-analysis-8fc1cb20fd15,intermediate,30,yes
+R108,S50,A/B Testing - Udacity,course,https://www.udacity.com/course/ab-testing--ud979,intermediate,600,yes
+R109,S50,Experimentation at Microsoft Article,article,https://towardsdatascience.com/online-controlled-experiments-at-scale-microsoft-5e8d9a96dffd,advanced,30,yes

@@ -1,0 +1,85 @@
+resource_id,skill_id,title,type,url,level,duration_min,is_free
+R01,S01,Python Official Tutorial,docs,https://docs.python.org/3/tutorial/,beginner,300,yes
+R02,S01,Kaggle Learn: Python,course,https://www.kaggle.com/learn/python,beginner,300,yes
+R03,S02,Pro Git Book,book,https://git-scm.com/book/en/v2,beginner,240,yes
+R04,S02,GitHub Skills,course,https://skills.github.com/,beginner,180,yes
+R05,S03,SQLBolt Interactive Lessons,course,https://sqlbolt.com/,beginner,180,yes
+R06,S03,Kaggle Learn: Intro to SQL,course,https://www.kaggle.com/learn/intro-to-sql,beginner,240,yes
+R07,S04,MDN: Learn HTML,docs,https://developer.mozilla.org/en-US/docs/Learn/HTML,beginner,300,yes
+R08,S04,freeCodeCamp Curriculum,course,https://www.freecodecamp.org/learn/,beginner,600,yes
+R09,S05,MDN: Learn CSS,docs,https://developer.mozilla.org/en-US/docs/Learn/CSS,beginner,400,yes
+R10,S05,Flexbox Froggy,practice,https://flexboxfroggy.com/,beginner,60,yes
+R11,S06,JavaScript.info,docs,https://javascript.info/,beginner,900,yes
+R12,S06,MDN: JavaScript Guide,docs,https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide,intermediate,600,yes
+R13,S07,MDN: Responsive Design,docs,https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design,intermediate,90,yes
+R14,S07,web.dev: Learn Responsive Design,course,https://web.dev/learn/design,intermediate,180,yes
+R15,S08,Tailwind CSS Docs,docs,https://tailwindcss.com/docs,beginner,180,yes
+R16,S08,Tailwind: Utility-First Fundamentals,docs,https://tailwindcss.com/docs/utility-first,beginner,30,yes
+R17,S09,React: Learn,docs,https://react.dev/learn,beginner,600,yes
+R18,S09,React Tutorial: Tic-Tac-Toe,practice,https://react.dev/learn/tutorial-tic-tac-toe,beginner,90,yes
+R19,S10,Node.js: Learn,docs,https://nodejs.org/en/learn,beginner,300,yes
+R20,S10,The Odin Project: NodeJS,course,https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs,intermediate,600,yes
+R21,S11,MDN: HTTP Overview,docs,https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview,beginner,60,yes
+R22,S11,RESTful API Tutorial,docs,https://restfulapi.net/,intermediate,120,yes
+R23,S12,Express: Getting Started,docs,https://expressjs.com/en/starter/installing.html,beginner,180,yes
+R24,S12,MDN: Express Tutorial,docs,https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs,intermediate,360,yes
+R25,S13,MongoDB University,course,https://learn.mongodb.com/,beginner,240,yes
+R26,S13,MongoDB Manual,docs,https://www.mongodb.com/docs/manual/,intermediate,180,yes
+R27,S14,OWASP Authentication Cheat Sheet,docs,https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html,intermediate,60,yes
+R28,S14,JWT Introduction,docs,https://jwt.io/introduction,beginner,30,yes
+R29,S15,Render Docs,docs,https://render.com/docs,beginner,60,yes
+R30,S15,Vercel Docs,docs,https://vercel.com/docs,beginner,60,yes
+R31,S16,Linux Journey,course,https://linuxjourney.com/,beginner,360,yes
+R32,S16,MIT: The Missing Semester,course,https://missing.csail.mit.edu/,intermediate,600,yes
+R33,S17,Khan Academy: Statistics and Probability,course,https://www.khanacademy.org/math/statistics-probability,beginner,900,yes
+R34,S17,StatQuest (YouTube),video,https://www.youtube.com/@statquest,beginner,600,yes
+R35,S18,Khan Academy: Linear Algebra,course,https://www.khanacademy.org/math/linear-algebra,beginner,800,yes
+R36,S18,3Blue1Brown: Linear Algebra,video,https://www.3blue1brown.com/topics/linear-algebra,beginner,180,yes
+R37,S19,NumPy: Absolute Beginners,docs,https://numpy.org/doc/stable/user/absolute_beginners.html,beginner,90,yes
+R38,S19,NumPy: Quickstart,docs,https://numpy.org/doc/stable/user/quickstart.html,beginner,120,yes
+R39,S20,Kaggle Learn: Pandas,course,https://www.kaggle.com/learn/pandas,beginner,240,yes
+R40,S20,Pandas: 10 Minutes to Pandas,docs,https://pandas.pydata.org/docs/user_guide/10min.html,beginner,60,yes
+R41,S21,Kaggle Learn: Data Visualization,course,https://www.kaggle.com/learn/data-visualization,beginner,240,yes
+R42,S21,Matplotlib Tutorials,docs,https://matplotlib.org/stable/tutorials/index.html,intermediate,180,yes
+R43,S22,Kaggle Learn: Data Cleaning,course,https://www.kaggle.com/learn/data-cleaning,beginner,240,yes
+R44,S22,Pandas: Working with Missing Data,docs,https://pandas.pydata.org/docs/user_guide/missing_data.html,intermediate,60,yes
+R45,S23,Seaborn Tutorial,docs,https://seaborn.pydata.org/tutorial.html,intermediate,180,yes
+R46,S23,Kaggle Datasets (practice),practice,https://www.kaggle.com/datasets,beginner,240,yes
+R47,S24,Kaggle Learn: Intro to Machine Learning,course,https://www.kaggle.com/learn/intro-to-machine-learning,beginner,180,yes
+R48,S24,scikit-learn User Guide,docs,https://scikit-learn.org/stable/user_guide.html,intermediate,600,yes
+R49,S25,Kaggle Learn: Feature Engineering,course,https://www.kaggle.com/learn/feature-engineering,intermediate,300,yes
+R50,S25,scikit-learn: Preprocessing,docs,https://scikit-learn.org/stable/modules/preprocessing.html,intermediate,120,yes
+R51,S26,scikit-learn: Model Evaluation,docs,https://scikit-learn.org/stable/modules/model_evaluation.html,intermediate,120,yes
+R52,S26,Kaggle Learn: Intermediate ML,course,https://www.kaggle.com/learn/intermediate-machine-learning,intermediate,240,yes
+R53,S27,Kaggle Learn: Intro to Deep Learning,course,https://www.kaggle.com/learn/intro-to-deep-learning,intermediate,240,yes
+R54,S27,3Blue1Brown: Neural Networks,video,https://www.3blue1brown.com/topics/neural-networks,beginner,100,yes
+R55,S28,Khan Academy: Probability,course,https://www.khanacademy.org/math/statistics-probability/probability-library,beginner,400,yes
+R56,S28,Seeing Theory,tool,https://seeing-theory.brown.edu/,beginner,120,yes
+R57,S29,Python Docs: Classes,docs,https://docs.python.org/3/tutorial/classes.html,beginner,90,yes
+R58,S29,Real Python: OOP in Python,docs,https://realpython.com/python3-object-oriented-programming/,intermediate,120,yes
+R59,S30,VisuAlgo,tool,https://visualgo.net/,beginner,240,yes
+R60,S30,GeeksforGeeks: Data Structures,docs,https://www.geeksforgeeks.org/data-structures/,beginner,600,yes
+R61,S31,GeeksforGeeks: Algorithms,docs,https://www.geeksforgeeks.org/fundamentals-of-algorithms/,intermediate,600,yes
+R62,S31,CS50 (Harvard),course,https://cs50.harvard.edu/x/,beginner,1200,yes
+R63,S32,GeeksforGeeks: Analysis of Algorithms,docs,https://www.geeksforgeeks.org/analysis-of-algorithms/,beginner,120,yes
+R64,S32,Big-O Cheat Sheet,docs,https://www.bigocheatsheet.com/,beginner,30,yes
+R65,S33,GeeksforGeeks: Dynamic Programming,docs,https://www.geeksforgeeks.org/dynamic-programming/,intermediate,600,yes
+R66,S33,GeeksforGeeks: Recursion,docs,https://www.geeksforgeeks.org/recursion/,beginner,180,yes
+R67,S34,Operating Systems: Three Easy Pieces,book,https://pages.cs.wisc.edu/~remzi/OSTEP/,advanced,1200,yes
+R68,S34,GeeksforGeeks: Operating Systems,docs,https://www.geeksforgeeks.org/operating-systems/,intermediate,600,yes
+R69,S35,GeeksforGeeks: Computer Networks,docs,https://www.geeksforgeeks.org/computer-network-tutorials/,beginner,600,yes
+R70,S35,Cloudflare Learning Center,docs,https://www.cloudflare.com/learning/,beginner,180,yes
+R71,S36,GeeksforGeeks: DBMS,docs,https://www.geeksforgeeks.org/dbms/,beginner,480,yes
+R72,S36,PostgreSQL Tutorial,docs,https://www.postgresqltutorial.com/,intermediate,300,yes
+R73,S37,System Design Primer,docs,https://github.com/donnemartin/system-design-primer,advanced,900,yes
+R74,S37,GeeksforGeeks: System Design,docs,https://www.geeksforgeeks.org/system-design-tutorial/,intermediate,600,yes
+R75,S38,FastAPI Tutorial,docs,https://fastapi.tiangolo.com/tutorial/,beginner,360,yes
+R76,S38,FastAPI: First Steps,docs,https://fastapi.tiangolo.com/tutorial/first-steps/,beginner,30,yes
+R77,S39,pytest: Getting Started,docs,https://docs.pytest.org/en/stable/getting-started.html,beginner,60,yes
+R78,S39,Python Docs: unittest,docs,https://docs.python.org/3/library/unittest.html,intermediate,90,yes
+R79,S40,Docker: Get Started,docs,https://docs.docker.com/get-started/,beginner,120,yes
+R80,S40,Play with Docker Labs,practice,https://labs.play-with-docker.com/,beginner,120,yes
+R81,S41,LeetCode Problemset,practice,https://leetcode.com/problemset/,intermediate,3000,yes
+R82,S41,NeetCode Roadmap,practice,https://neetcode.io/roadmap,intermediate,2400,yes
+R83,S42,Atlassian: Agile Coach,docs,https://www.atlassian.com/agile,beginner,90,yes
+R84,S42,GeeksforGeeks: SDLC,docs,https://www.geeksforgeeks.org/software-development-life-cycle-sdlc/,beginner,60,yes
