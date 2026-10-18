@@ -1,0 +1,91 @@
+raw_text,expected_skill_id,kind
+py,S01,alias
+python3,S01,alias
+Python,S01,alias
+git,S02,alias
+GitHub,S02,alias
+mysql,S03,alias
+SQL,S03,alias
+html5,S04,alias
+CSS3,S05,alias
+js,S06,alias
+JavaScript,S06,alias
+ES6,S06,alias
+ReactJS,S09,alias
+react,S09,alias
+nodejs,S10,alias
+Node.js,S10,alias
+mongo,S13,alias
+docker,S40,alias
+numpy,S19,alias
+pandas,S20,alias
+matplotlib,S21,alias
+sklearn,S24,alias
+scikit-learn,S24,alias
+pytorch,S27,alias
+tensorflow,S27,alias
+DSA,S30,alias
+OOPs,S29,alias
+leetcode,S41,alias
+fast-api,S38,alias
+tailwind,S08,alias
+linux,S16,alias
+terminal,S16,alias
+stats,S17,alias
+OS,S34,alias
+DBMS,S36,alias
+agile,S42,alias
+JWT,S14,alias
+rest api,S11,alias
+express,S12,alias
+EDA,S23,alias
+pyhton,S01,typo
+phyton,S01,typo
+javscript,S06,typo
+javasript,S06,typo
+htlm,S04,typo
+panda,S20,typo
+numpay,S19,typo
+reactt,S09,typo
+dockr,S40,typo
+tailwnd,S08,typo
+git hub,S02,typo
+mongodbb,S13,typo
+building web pages,S04,phrase
+making websites look good,S05,phrase
+writing queries for databases,S03,phrase
+version control for code,S02,phrase
+cleaning messy datasets,S22,phrase
+making charts from data,S21,phrase
+predicting using machine learning models,S24,phrase
+neural networks for images,S27,phrase
+solving coding problems daily,S41,phrase
+sorting and searching algorithms,S31,phrase
+designing scalable systems,S37,phrase
+writing unit tests,S39,phrase
+putting apps in containers,S40,phrase
+building backend services in python,S38,phrase
+mobile friendly layouts,S07,phrase
+login and signup for websites,S14,phrase
+deploying a website online,S15,phrase
+linked lists and trees,S30,phrase
+processes and memory management,S34,phrase
+average median and variance,S17,phrase
+probability and random events,S28,phrase
+accuracy precision and recall,S26,phrase
+object oriented design with classes,S29,phrase
+building apis for apps,S11,phrase
+excel,,none
+photoshop,,none
+cooking,,none
+public speaking,,none
+guitar,,none
+java,,none
+c++,,none
+ms word,,none
+video editing,,none
+communication skills,,none
+swimming,,none
+flutter,,none
+kotlin,,none
+figma,,none
