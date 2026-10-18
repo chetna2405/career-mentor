@@ -1,51 +1,43 @@
-﻿skill_id,skill_name,difficulty,est_hours,aliases
-S01,Python,1,30,"py|python3|python programming|python lang"
-S02,Statistics & Probability,2,40,"stats|probability|statistical analysis|statistics"
-S03,Linear Algebra,2,35,"linear algebra|matrices|matrix math|linalg"
-S04,Data Wrangling,2,25,"data cleaning|data munging|data preprocessing|cleaning data"
-S05,Pandas,1,20,"pandas library|pd|dataframes|data frames"
-S06,NumPy,1,15,"numpy|np|numerical python|array computing"
-S07,Data Visualization,2,20,"data viz|visualization|graphs|plotting|charts"
-S08,Matplotlib,1,15,"matplotlib|plt|mpl|pyplot"
-S09,Seaborn,1,10,"seaborn|sns|statistical plots"
-S10,Machine Learning,2,50,"ML|machine learning basics|ml algorithms|predictive modeling"
-S11,Scikit-Learn,2,25,"sklearn|scikit learn|scikit-learn|ml library"
-S12,SQL,1,30,"sql|structured query language|database querying|queries"
-S13,Feature Engineering,3,30,"feature extraction|feature selection|feature creation"
-S14,Model Evaluation,2,20,"model metrics|evaluation metrics|model performance|cross validation"
-S15,Deep Learning,3,60,"DL|deep learning|neural networks|neural nets"
-S16,TensorFlow,3,35,"tensorflow|tf|tensorflow2"
-S17,PyTorch,3,35,"pytorch|torch|pt"
-S18,Natural Language Processing,3,45,"NLP|text processing|text analytics|natural language"
-S19,Computer Vision,3,45,"CV|image processing|image recognition|vision"
-S20,Big Data,3,40,"big data|hadoop|spark|distributed computing"
-S21,HTML,1,20,"html5|hypertext markup|html basics|markup"
-S22,CSS,1,25,"css3|styling|cascading stylesheets|stylesheets"
-S23,JavaScript,1,40,"js|javascript es6|vanilla js|ecmascript"
-S24,Responsive Design,2,20,"responsive web|mobile first|responsive layouts|responsive UI"
-S25,React,2,40,"reactjs|react.js|react framework|react hooks"
-S26,Git & GitHub,1,15,"git|github|version control|source control|vcs"
-S27,Command Line,1,10,"terminal|bash|cli|command prompt|shell|cmd"
-S28,VS Code,1,5,"vscode|visual studio code|code editor|ide"
-S29,Node.js,2,30,"nodejs|node|server side js|backend js"
-S30,Express.js,2,20,"express|expressjs|node framework|web framework"
-S31,REST API,2,25,"rest|restful api|api design|web api|http api"
-S32,MongoDB,2,25,"mongo|mongodb|nosql|document database"
-S33,PostgreSQL,2,25,"postgres|postgresql|relational database|psql|rdbms"
-S34,Authentication & Security,2,20,"auth|jwt|authentication|authorization|oauth|security"
-S35,Deployment & Hosting,2,20,"deployment|hosting|cloud deploy|web hosting|devops basics"
-S36,TypeScript,2,25,"ts|typescript|typed javascript|ts lang"
-S37,Next.js,2,30,"nextjs|next|react framework|ssr|server side rendering"
-S38,Tailwind CSS,1,15,"tailwind|tailwindcss|utility css|css framework"
-S39,Docker,3,25,"docker|containers|containerization|docker compose"
-S40,System Design,3,40,"system design|architecture|scalability|distributed systems"
-S41,Data Structures,2,35,"dsa|data structures|arrays|linked lists|trees|graphs"
-S42,Algorithms,2,40,"algo|algorithms|sorting|searching|complexity|big o"
-S43,GraphQL,2,20,"graphql|graph ql|query language|api query"
-S44,Redux,2,20,"redux|state management|redux toolkit|react redux"
-S45,Testing,2,20,"testing|unit testing|jest|testing library|tdd|test driven"
-S46,Agile & Scrum,1,10,"agile|scrum|sprint|kanban|project management"
-S47,Communication Skills,1,15,"communication|soft skills|presentation|stakeholder communication"
-S48,Problem Solving,2,20,"problem solving|logical thinking|analytical thinking|critical thinking"
-S49,EDA,2,20,"eda|exploratory data analysis|data exploration|descriptive analysis"
-S50,A/B Testing,2,15,"ab testing|a/b test|split testing|experimentation"
+skill_id,skill_name,difficulty,est_hours,aliases
+S01,Python,1,30,py|python3|python programming|python language
+S02,Git and GitHub,1,8,git|github|version control
+S03,SQL,1,20,sql|mysql|postgresql|database queries
+S04,HTML,1,15,html5|html|web pages markup
+S05,CSS,1,20,css3|css|styling|stylesheets
+S06,JavaScript,2,40,js|javascript|es6|java script
+S07,Responsive Design,2,10,responsive|mobile friendly design|media queries
+S08,Tailwind CSS,2,12,tailwind|tailwindcss
+S09,React,3,40,reactjs|react.js|react js
+S10,Node.js,2,25,nodejs|node|node js
+S11,REST APIs,2,15,rest|api|apis|restful api|web services
+S12,Express.js,2,20,express|expressjs|express js
+S13,MongoDB,2,15,mongo|mongodb|nosql
+S14,Authentication,3,15,auth|login system|jwt|user authentication
+S15,Web Deployment,2,10,deployment|hosting|deploy website|netlify|vercel
+S16,Command Line and Linux,1,10,terminal|cli|bash|linux|command line
+S17,Statistics Basics,2,30,stats|statistics|descriptive statistics
+S18,Linear Algebra Basics,2,20,linear algebra|matrices|vectors
+S19,NumPy,1,12,numpy|np|numerical python
+S20,Pandas,2,20,pandas|pd|dataframes
+S21,Data Visualization,2,15,matplotlib|seaborn|plotting|charts|data viz
+S22,Data Cleaning,2,12,data cleaning|data preprocessing|missing values
+S23,Exploratory Data Analysis,2,15,eda|data exploration|data analysis
+S24,Machine Learning Basics,3,40,ml|machine learning|sklearn|scikit-learn
+S25,Feature Engineering,3,15,feature selection|feature extraction
+S26,Model Evaluation,3,12,model validation|metrics|cross validation
+S27,Deep Learning Basics,3,40,dl|deep learning|neural networks|tensorflow|pytorch
+S28,Probability Basics,2,20,probability|probability theory
+S29,Object-Oriented Programming,2,20,oop|oops|object oriented|classes and objects
+S30,Data Structures,2,50,dsa|ds|data structures|arrays linked lists trees
+S31,Algorithms,3,50,algos|algorithms|sorting searching|graph algorithms
+S32,Time and Space Complexity,2,10,big o|complexity analysis|time complexity
+S33,Recursion and Dynamic Programming,3,30,dp|dynamic programming|recursion
+S34,Operating Systems Basics,3,30,os|operating systems|process scheduling
+S35,Computer Networks Basics,2,25,cn|computer networks|networking|tcp ip
+S36,DBMS Concepts,2,20,dbms|database management|normalization
+S37,System Design Basics,3,30,system design|hld|scalability
+S38,FastAPI,2,20,fastapi|fast api|python backend
+S39,Software Testing,2,12,testing|unit testing|pytest
+S40,Docker Basics,2,12,docker|containers|containerization
+S41,Problem Solving Practice,2,60,leetcode|coding practice|competitive programming|problem solving
+S42,SDLC and Agile Basics,1,6,sdlc|agile|scrum|software development life cycle
