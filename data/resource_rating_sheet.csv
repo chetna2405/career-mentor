@@ -1,0 +1,33 @@
+﻿skill,user_level,minutes_per_day,recommended_resource,type,resource_level,rating_1_to_5
+Python,beginner,60,Kaggle Learn: Python,course,beginner,5
+Python,beginner,180,Kaggle Learn: Python,course,beginner,5
+Python,intermediate,120,Python Official Tutorial,docs,beginner,5
+Python,advanced,240,Python Official Tutorial,docs,beginner,5
+JavaScript,beginner,60,JavaScript.info,docs,beginner,3
+JavaScript,beginner,180,JavaScript.info,docs,beginner,4
+JavaScript,intermediate,120,MDN: JavaScript Guide,docs,intermediate,4
+JavaScript,advanced,240,MDN: JavaScript Guide,docs,intermediate,4
+React,beginner,60,React Tutorial: Tic-Tac-Toe,practice,beginner,4
+React,beginner,180,React Tutorial: Tic-Tac-Toe,practice,beginner,5
+React,intermediate,120,React Tutorial: Tic-Tac-Toe,practice,beginner,4
+React,advanced,240,React Tutorial: Tic-Tac-Toe,practice,beginner,3
+Pandas,beginner,60,Kaggle Learn: Pandas,course,beginner,4
+Pandas,beginner,180,Kaggle Learn: Pandas,course,beginner,5
+Pandas,intermediate,120,Pandas: 10 Minutes to Pandas,docs,beginner,4
+Pandas,advanced,240,Pandas: 10 Minutes to Pandas,docs,beginner,5
+Machine Learning Basics,beginner,60,Kaggle Learn: Intro to Machine Learning,course,beginner,4
+Machine Learning Basics,beginner,180,Kaggle Learn: Intro to Machine Learning,course,beginner,4
+Machine Learning Basics,intermediate,120,scikit-learn User Guide,docs,intermediate,4
+Machine Learning Basics,advanced,240,scikit-learn User Guide,docs,intermediate,5
+Data Structures,beginner,60,VisuAlgo,tool,beginner,5
+Data Structures,beginner,180,VisuAlgo,tool,beginner,4
+Data Structures,intermediate,120,GeeksforGeeks: Data Structures,docs,beginner,3
+Data Structures,advanced,240,GeeksforGeeks: Data Structures,docs,beginner,3
+Algorithms,beginner,60,CS50 (Harvard),course,beginner,3
+Algorithms,beginner,180,CS50 (Harvard),course,beginner,5
+Algorithms,intermediate,120,GeeksforGeeks: Algorithms,docs,intermediate,5
+Algorithms,advanced,240,GeeksforGeeks: Algorithms,docs,intermediate,5
+System Design Basics,beginner,60,GeeksforGeeks: System Design,docs,intermediate,5
+System Design Basics,beginner,180,GeeksforGeeks: System Design,docs,intermediate,5
+System Design Basics,intermediate,120,GeeksforGeeks: System Design,docs,intermediate,5
+System Design Basics,advanced,240,System Design Primer,docs,advanced,5

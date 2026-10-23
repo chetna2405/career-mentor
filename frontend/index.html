@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Career Mentor</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%8E%AF%3C/text%3E%3C/svg%3E">
+  <link rel="stylesheet" href="vendor/bootstrap.min.css">
+  <link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="container topbar-inner">
+      <a class="brand" href="#/today">🎯 Career Mentor</a>
+      <nav class="nav-links" id="nav">
+        <a href="#/profile" data-route="#/profile">Profile</a>
+        <a href="#/roadmap" data-route="#/roadmap">Roadmap</a>
+        <a href="#/today" data-route="#/today">Today</a>
+        <a href="#/dashboard" data-route="#/dashboard">Dashboard</a>
+      </nav>
+      <div class="demo-control" title="Pretend it is another day to test how the plan adapts">
+        <label for="demoDate" class="demo-label">Today is</label>
+        <input type="date" id="demoDate" class="form-control form-control-sm">
+        <button type="button" id="demoNext" class="btn btn-sm btn-outline-primary">+1 day</button>
+        <button type="button" id="demoReset" class="btn btn-sm btn-outline-secondary">Reset</button>
+        <span id="demoBadge" class="badge text-bg-warning d-none">demo date</span>
+      </div>
+    </div>
+  </header>
+
+  <main id="app" class="container py-4"></main>
+  <div id="toasts" aria-live="polite"></div>
+
+  <script src="vendor/chart.umd.js"></script>
+  <script src="js/api.js"></script>
+  <script src="js/views.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

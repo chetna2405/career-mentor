@@ -31,7 +31,7 @@ def load_sentence_encoder(model_name="all-MiniLM-L6-v2"):
 
 
 class SkillMatcher:
-    def __init__(self, skills, encoder=None, fuzzy_threshold=80, emb_high=0.60, emb_low=0.40):
+    def __init__(self, skills, encoder=None, fuzzy_threshold=80, emb_high=0.70, emb_low=0.50):
         """skills: DataFrame with columns skill_id, skill_name, aliases (pipe separated)."""
         self.names = dict(zip(skills["skill_id"], skills["skill_name"]))
         self.exact = {}
